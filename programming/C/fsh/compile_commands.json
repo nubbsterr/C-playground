@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/cc",
+      "-c",
+      "-O2",
+      "-Wno-unused-parameter",
+      "-Wno-unused-but-set-variable",
+      "-Wextra",
+      "-Wall",
+      "-pedantic",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/home/nubb/repos/C-playground/programming/C/fsh",
+    "file": "/home/nubb/repos/C-playground/programming/C/fsh/main.c",
+    "output": "/home/nubb/repos/C-playground/programming/C/fsh/main"
+  }
+]
